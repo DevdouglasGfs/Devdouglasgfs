@@ -18,6 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasgfs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social media and platforms
-* [Behance]('https://www.behance.net/devdouglassilva' color="#06244f")
-* [Instagram]('https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==' color="#06244f")
-* [LinkedIn]('https://www.linkedin.com/in/developer-douglas-silva' color="#06244f")
+* [**Behance**]('https://www.behance.net/devdouglassilva')
+* [Instagram]('https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==')
+* [LinkedIn]('https://www.linkedin.com/in/developer-douglas-silva')
