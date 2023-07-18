@@ -19,5 +19,5 @@
 
 ## Redes sociais e plataformas
 * [**__Behance__**](https://www.behance.net/devdouglassilva)
-* * [**__Instagram__**](https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==)
-* * [**__LinkedIn__**](https://www.linkedin.com/in/developer-douglas-silva)
+* [**__Instagram__**](https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==)
+* [**__LinkedIn__**](https://www.linkedin.com/in/developer-douglas-silva)
