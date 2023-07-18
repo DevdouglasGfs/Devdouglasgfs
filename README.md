@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=true)
 <sub>Everytime</sub>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=false)
 <sub>This year</sub>
 
 
