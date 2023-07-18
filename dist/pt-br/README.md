@@ -15,7 +15,7 @@
 
 
 ### Top linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasgfs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasgfs&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Redes sociais e plataformas
 * [**__Behance__**](https://www.behance.net/devdouglassilva)
