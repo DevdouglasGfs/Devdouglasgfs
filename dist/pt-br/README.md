@@ -7,10 +7,10 @@
 
 ## Estatísticas
 ### Contribuições
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=pt-br&cache_seconds=14400&include_all_commits=true)
 <sub>Todos os tempos</sub>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=pt-br&cache_seconds=14400&include_all_commits=false)
 <sub>Este ano</sub>
 
 
