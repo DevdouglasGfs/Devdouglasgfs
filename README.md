@@ -3,7 +3,7 @@
 
 ## Choise language
 * **English** (current)
-* [Português]('/dist/pt-br/README.md')
+* [Português](/dist/pt-br/README.md)
 
 ## Statistics
 ### Contribuitions
@@ -18,6 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasgfs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social media and platforms
-* [**Behance**]('https://www.behance.net/devdouglassilva')
-* [Instagram]('https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==')
-* [LinkedIn]('https://www.linkedin.com/in/developer-douglas-silva')
+* [**__Behance__**]('https://www.behance.net/devdouglassilva')
+* [**__Instagram__**]('https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==')
+* [**__LinkedIn__**]('https://www.linkedin.com/in/developer-douglas-silva')
