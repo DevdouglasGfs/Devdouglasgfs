@@ -1,23 +1,23 @@
-# Hi, I´m Douglas Silva and i´m a front-end developer
-![Photo by Front-end developer Douglas Silva]('./assets/me.png')
+# Olá, eu sou Douglas Silva e sou um desenvolvedor Front-end
+![Foto do desenvolvedor Front-end Douglas Silva]('/assets/me.png')
 
-## Choise language
-* **English** (current)
-* [Português]('./dist/pt-br/README.md')
+## Escolha de linguagem
+* [English]('/README.md')
+* **Português** (current)
 
-## Statistics
-### Contribuitions
+## Estatísticas
+### Contribuições
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=true)
-<sub>Everytime</sub>
+<sub>Todos os tempos</sub>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=false)
-<sub>This year</sub>
+<sub>Este ano</sub>
 
 
-### Top languages
+### Top linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasgfs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Social media and platforms
+## Redes sociais e plataformas
 * [Behance]('https://www.behance.net/devdouglassilva')
 * [Instagram]('https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==')
 * [LinkedIn]('https://www.linkedin.com/in/developer-douglas-silva')
