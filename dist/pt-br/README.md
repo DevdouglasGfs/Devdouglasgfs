@@ -1,8 +1,8 @@
 # Olá, eu sou Douglas Silva e sou um desenvolvedor Front-end
-![Foto do desenvolvedor Front-end Douglas Silva]('/assets/me.png')
+![Foto do desenvolvedor Front-end Douglas Silva](/assets/me.png)
 
 ## Escolha de linguagem
-* [English]('/README.md')
+* [English](/README.md)
 * **Português** (current)
 
 ## Estatísticas
@@ -18,6 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasgfs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Redes sociais e plataformas
-* [Behance]('https://www.behance.net/devdouglassilva')
-* [Instagram]('https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==')
-* [LinkedIn]('https://www.linkedin.com/in/developer-douglas-silva')
+* [**__Behance__**](https://www.behance.net/devdouglassilva)
+* * [**__Instagram__**](https://instagram.com/douglassilva_developer?igshid=MzNlNGNkZWQ4Mg==)
+* * [**__LinkedIn__**](https://www.linkedin.com/in/developer-douglas-silva)
