@@ -3,7 +3,7 @@
 
 <br>
 <br>
-<p align="center">Welcome to me profile!</p>
+<p align="center">Bem vindo(a) ao meu perfil!</p>
 <br>
 <br>
 <h2 align="center">Escolha a linguagem</h2>
