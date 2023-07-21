@@ -7,7 +7,7 @@
 
 ## Estatísticas
 ### Contribuições
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=pt-br&cache_seconds=14400&include_all_commits=true&rank_icon=github))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=pt-br&cache_seconds=14400&include_all_commits=true&rank_icon=github)
 <sub>Todos os tempos</sub>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=pt-br&cache_seconds=14400&rank_icon=github)
