@@ -11,8 +11,8 @@
 <h2 align="center">Linguagem</h2>
 <div align="center">
   
-![](https://img.shields.io/badge/ENGLISH-inativo-white.svg)
-![](https://img.shields.io/badge/PORTUGUESE-ativo-cyan.svg)
+[![](https://img.shields.io/badge/ENGLISH-inativo-white.svg)](./README.md)
+[![](https://img.shields.io/badge/PORTUGUESE-ativo-cyan.svg)](#)
 </div>
 
 <br/>

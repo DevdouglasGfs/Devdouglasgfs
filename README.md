@@ -1,7 +1,7 @@
 <div align="center">
   
 <span>I´m a front-end developer</span>|<h1>Douglas Silva</h1>
----------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------
+-:|-
 </div>
 
 <div align="center">
@@ -11,8 +11,8 @@
 <h2 align="center">Language</h2>
 <div align="center">
   
-![](https://img.shields.io/badge/ENGLISH-active-cyan.svg)
-![](https://img.shields.io/badge/PORTUGUESE-inactive-white.svg)
+[![](https://img.shields.io/badge/ENGLISH-active-cyan.svg)](#)
+[![](https://img.shields.io/badge/PORTUGUESE-inactive-white.svg)](./dist/pt-br/README.md)
 </div>
 
 <br/>
