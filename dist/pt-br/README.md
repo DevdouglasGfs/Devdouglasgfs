@@ -1,7 +1,6 @@
-<h1 align="center">Olá, eu sou Douglas Silva e sou um desenvolvedor front-end</h1>
 <div align="center">
   
-<img alt="" src="/assets/me.jpg" style="max-height: 60svh; width: 60svh; display: inline-block; object-fit: cover;" />|<h1>Douglas Silva</h1>
+<span>Sou um desenvolvedor front-end</span>|<h1>Douglas Silva</h1>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------
 </div>
 
