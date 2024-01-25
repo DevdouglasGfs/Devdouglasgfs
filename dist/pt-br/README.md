@@ -1,7 +1,10 @@
 <div align="center">
-  
-<span>Sou um desenvolvedor front-end</span>|<h1>Douglas Silva</h1>
----------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------
+
+<img alt="Foto do desenvolvedor e web designer Douglas Silva" src="../../assets/images/me.jpg" style="border-radius: 100%; aspect-ratio: 4/4; width: 100svw; display: block;" /> | <span style="display: block;">"Eu sou um desenvolvedor Front-end e web designer"</span>
+-:|-
+
+
+<h1>Douglas Silva</h1>
 </div>
 
 <div align="center">
