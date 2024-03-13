@@ -1,10 +1,12 @@
 <div align="center">
-
-<img alt="Foto do desenvolvedor e web designer Douglas Silva" src="../../assets/images/me.jpg" style="border-radius: 100%; aspect-ratio: 4/4; width: 100svw; display: block;" /> | <span style="display: block;">"Eu sou um desenvolvedor Front-end e web designer"</span>
--:|-
-
-
 <h1>Douglas Silva</h1>
+Eu sou um desenvolvedor<br/> Front-end e UI Designer
+
+<br/>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b55ca4e7-5a23-4911-b116-54b37689e68a/deploy-status)](https://devdouglassilva.xyz)|[Portfólio](https://devoduglassilva.xyz)
+-|-
+
 </div>
 
 <div align="center">
@@ -37,8 +39,6 @@
 </div>
 <br/>
 
-> [!NOTE]
-> O desenvolvedor que você procurava, você acabou de encontrar!
 
 <br>
 <br>

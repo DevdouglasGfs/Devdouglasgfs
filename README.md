@@ -1,10 +1,13 @@
 <div align="center">
-
-<img alt="Photo by Front-end developer and web designer Douglas Silva" src="./assets/images/me.jpg" style="border-radius: 100%; aspect-ratio: 4/4; width: 100svw; display: block;" /> | <span style="display: block;">"I'm a front-end developer and web designer"</span>
--:|-
-
 <h1>Douglas Silva</h1>
+I'm a Front-end developer and UI designer
+
+<br/>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b55ca4e7-5a23-4911-b116-54b37689e68a/deploy-status)](https://devdouglassilva.xyz)|[Portfolio](https://devoduglassilva.xyz)
+-|-
 </div>
+
 
 <div align="center">
   <img height="30svh" src="https://forthebadge.com/images/featured/featured-uses-html.svg" />
@@ -37,8 +40,6 @@
 </div>
 <br/>
 
-> [!NOTE]
-> The developer that you was finding, you has found!
 
 <br>
 <br>
@@ -48,12 +49,14 @@
   <div align="center">
   <p><strong>All commits</strong></p>
   
-  ![](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=true&rank_icon=github")
+![](https://github-readme-stats.vercel.app/api?username=devdouglasgfs&theme=tokyonight&show_icons=true&count_private=true&locale=en&cache_seconds=14400&include_all_commits=true&rank_icon=github")
   ---
+
   <p><strong>Profile Summary</strong></p>
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdouglasgfs&theme=tokyonight&locale)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdouglasgfs&theme=tokyonight&locale)
   ---
+
   <p><strong>Week</strong></p>
   
   [![Douglas github streak](https://github-readme-streak-stats.herokuapp.com/?user=devdouglasgfs&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
