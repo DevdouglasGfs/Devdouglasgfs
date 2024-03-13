@@ -4,7 +4,7 @@ I'm a Front-end developer and UI designer
 
 <br/>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b55ca4e7-5a23-4911-b116-54b37689e68a/deploy-status)](https://devdouglassilva.xyz)|[Portfolio](https://devoduglassilva.xyz)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b55ca4e7-5a23-4911-b116-54b37689e68a/deploy-status)](https://devdouglassilva.xyz)|[Portfolio](https://devdouglassilva.xyz)
 -|-
 </div>
 
